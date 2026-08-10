@@ -1,0 +1,21 @@
+# qnti.fyi
+
+> qnti.fyi is a quantitative energy trading company running fully-automated systematic strategies in power markets.
+
+qnti.fyi ApS, Niels Jernes Vej 14, 9220 Aalborg Øst, Denmark, CVR 44226944
+qnti.fyi Inc., 8 The Green # 17383, Dover, DE 19901, United States
+
+## Pages
+
+- [Blog](https://qnti.fyi/blog/): Notes from qnti.fyi on quantitative research, power markets, and the engineering behind automated trading.
+- [Contact](https://qnti.fyi/contact/): Get in touch with qnti.fyi. Offices in Aalborg, Denmark and Dover, Delaware, and direct contacts for both partners.
+- [Member of MISO](https://qnti.fyi/blog/miso-membership/): qnti.fyi became a member of MISO on 1 July 2024 and traded the same day — our second US ISO, and more than five times the size of ISO-NE.
+- [Now live in CAISO](https://qnti.fyi/blog/caiso-membership/): qnti.fyi has been accepted as a member of CAISO — our third North American ISO in a year, and our last market entrance of 2024.
+- [Open roles](https://qnti.fyi/roles/): Open positions at qnti.fyi. We hire quantitative researchers and engineers in Aalborg and remotely.
+- [Opportunity for students](https://qnti.fyi/blog/opportunity-for-students/): We are exploring ways to bring students into quantitative power trading — as a student worker, a master's thesis collaboration, or a mix of both.
+- [What we do](https://qnti.fyi/about/): How qnti.fyi trades: fully-automated systematic strategies in power markets, built on quantitative research.
+
+## Notes
+
+- This site is static, carries no JavaScript, and sets no cookies.
+- Vulnerability reports: https://qnti.fyi/.well-known/security.txt

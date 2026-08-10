@@ -1,0 +1,7 @@
+# Vulnerability disclosure contact for qnti.fyi (RFC 9116).
+# Expires must stay in the future — `just check-files` fails once it lapses.
+
+Contact: mailto:operations@qnti.fyi
+Expires: 2027-08-04T00:00:00.000Z
+Preferred-Languages: en, da
+Canonical: https://qnti.fyi/.well-known/security.txt
